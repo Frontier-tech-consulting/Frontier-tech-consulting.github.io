@@ -1,7 +1,9 @@
 export default function Home() {
   return (
     <main>
-      <div>Next.js on GitHub Pages</div>
+      <div>
+        <h1>FrontierTech: Building public goods , one agent at a time </h1>
+      </div>
     </main>
   );
 }
